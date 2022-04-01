@@ -6,3 +6,7 @@ name = 'pypi'
 [packages]
 invoke = "*"
 gitpython = "*"
+requests = "*"
+pandas = "*"
+jupyterlab = "*"
+altair = "*"
